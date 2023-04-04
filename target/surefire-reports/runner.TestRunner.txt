@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 2.193 s <<< FAILURE! - in runner.TestRunner
+Customer lives in Ireland(Verify User get any help with NHS costs online service)  Time elapsed: 0.345 s  <<< ERROR!
+java.lang.NullPointerException
+
+Customer lives in England and don't claim any benefits or tax credit and don't live in home care and enter all other fields randomly #1(Verify User get any help with NHS costs online service)  Time elapsed: 0.034 s  <<< ERROR!
+java.lang.NullPointerException
+
+Customer lives in England and don't claim any benefits or tax credit and don't live in home care and enter all other fields randomly #2(Verify User get any help with NHS costs online service)  Time elapsed: 0.115 s  <<< ERROR!
+java.lang.NullPointerException
+
